@@ -1,11 +1,9 @@
 # R--Ninth-Assignment
 
 > library(readr)
-> city <- read_csv("city.csv", show_col_types = FALSE)
-New names:                                                                                                   
-• `` -> `...1`
+> city <- read_csv("city.csv", show_col_types = FALSE)                                                                                         
 > city
-# A tibble: 10 × 3
+
     ...1     u     x
    <dbl> <dbl> <dbl>
  1     1   138   143
